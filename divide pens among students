@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+int penNumber = 14;
+int studentNumber = 3;
+
+int quotient = penNumber / studentNumber;
+printf("%d", quotient);
+
+int remainder = penNumber % studentNumber;
+printf("\n%d", remainder);
+
+return 0;
+
+}
