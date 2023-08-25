@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+double number = 86.99;
+char alphabet = 'z';
+
+printf("%lf", number);
+printf("\n%c", alphabet);
+
+return 0;
+}
