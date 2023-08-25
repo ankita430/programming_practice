@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+int costprice = 19;
+int sellingprice = 27;
+int profit = sellingprice - costprice;
+printf("%d", profit);
+return 0;
+}
