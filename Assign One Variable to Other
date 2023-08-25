@@ -1,0 +1,13 @@
+#include <stdio.h>
+int main()
+{
+int distance = 135;
+int newDistance = 429;
+
+distance == newDistance;
+
+printf("%d", distance);
+printf("  %d", newDistance);
+
+return 0;
+}
